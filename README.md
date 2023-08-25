@@ -5,7 +5,7 @@
 ----
 
 - Live demo app: https://axelar-game.netlify.app/
-- Video: https://www.youtube.com/watch?v=l4M16MhPqa0&feature=youtu.be
+- Video: https://youtu.be/kf7yZbHLtyg
 
 ----
 
