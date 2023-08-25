@@ -53,6 +53,9 @@ Few example of L2 → L1 messages:
 - Msg 1: https://goerli.voyager.online/message/0xc4de415e78575d00bbee0e8f8d4a1eeb5a5b6294e71e3ff87006145a3c671358
 - Msg 2: https://goerli.voyager.online/message/0x7653a0676f63faa534b2704fcd42d4c758705b29ec09aae7738377479cdcac54
 
+Contract on Goerli for bridged NFTs from Starknet: 
+- https://goerli.etherscan.io/address/0xe7c354bb5cba813ff8b9725c10d0df35518e20be
+
 Proof of claiming NFT on L1 (Goerli) [using function ConsumedMessageToL1)
 - https://goerli.etherscan.io/tx/0x887297a77b9b1c114d8368ba9b652f1e165b15a0f60214b785fae3a97d823be6
 
