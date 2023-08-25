@@ -69,10 +69,9 @@ So the path is: Starknet -> Goerli -> Avalanche
 
 All EVM collections are bridged to AVAX Fuji EVM C-Chain & users sell owned NFTs for some AVAX.
 
-Deployed contracts on AVAX Fuji:
-- xxx
-- xxx
-- xxx
+Few contracts deployed on AVAX Fuji:
+- https://testnet.snowtrace.io/address/0x0874fc46009698d2bf200ca2fc3cba5bb1b87cff
+- https://testnet.snowtrace.io/address/0x8cf7132a823d4b998c9bfe46b9de6d3a6f0cfad6
 
 ----
 
