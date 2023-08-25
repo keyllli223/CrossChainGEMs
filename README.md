@@ -30,8 +30,8 @@ Or Bridge another item (from Fantom) to AVAX and get special skill.
 
 ## 1️⃣ AXELAR:  Using Axelar GMP for sending Interchain Messages
 - **AxelarScan link with a completed Interchain transaction:**
-    - **Fantom Testnet** → **Avalanche Testnet** (bridge NFT): https://testnet.axelarscan.io/gmp/0x593045433dbc835e318b996a51f5d0165513bb060f1008827115792ae58cb8ab
-    - **Polygon Testnet** → **Avalanche Testnet** (bridge NFT): https://testnet.axelarscan.io/gmp/0x4e07f5d4c34fb8b2266b46c39c93ed631357039461112ffc1bf9d5f9d36cb22e 
+    - **Fantom Testnet** → **Avalanche Testnet** (bridge NFT): https://testnet.axelarscan.io/gmp/0x653996de9cdc4759a7420513a9fca475b922e12ac4cc43297bab731750472309
+    - **Polygon Testnet** → **Avalanche Testnet** (bridge NFT): https://testnet.axelarscan.io/gmp/0x262ae6ada2cf1e1f4a3957f5cccfb1ce5a2e1d691c609179a0f51ffabf2c29f0
 - **Experiences I had with learning and using Axelar:**
   - Was very interesting to connect in this way multiple chains. That can also bring new users from different chains and play in a realy INTERCHAIN game.
   - Even I use the testnet, was sometime hard to find test gas tokens for bridge  😆 😆😆 . Its just a fun fact. 
